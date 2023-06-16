@@ -1,7 +1,7 @@
 # Language Exchange little guide
 
-* <p>Language Exchange: Say we have 2 hours in total this time, then the ideal arrangement is 1 hour for Chinese, the other hour for English (half half basically).<br>
-語言交換: 假設我們有2小時，那麼就一小時中文一小時英文(基本上就是一半一半)</p>
+* Language Exchange: Say we have 2 hours in total this time, then the ideal arrangement is 1 hour for Chinese, the other hour for English (half half basically).
+語言交換: 假設我們有2小時，那麼就一小時中文一小時英文(基本上就是一半一半)
 
 <br>
 
