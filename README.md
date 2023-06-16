@@ -41,4 +41,14 @@
 <br>
 
 * I think I will try my best not to speak over/interject you when it is your time. So <span style="color:red">let me know if I should correct you if you have any mistakes. beforehand</span> Because I know some people think they are fine as long as they are understandable, while some pursue perfection.
-我想在你的時段時，我應該會盡量得讓你說，所以請提前跟我說我需不需要訂正你。因為我知道有些人只要是能夠被理解的，就算有錯誤也沒差，但是有些人追求的是完美。
+在你的時段時，我想我應該會盡量得讓你說，所以請提前跟我說我需不需要訂正你的錯誤。因為我知道有些人是只要能夠被理解的話，就算有錯誤也沒差，但是同時，有些人追求的是完美。
+
+<br>
+
+* Feel free to ask me any questions, I know some times it will be very tricky to get to a specific point you want.
+我可以理解有時候要問到自己的問題是非常困難的，所以不用擔心，儘管問我問題。
+
+<br>
+
+* I believe everyone has their own different answer for a same question. My answers only stands for myself, though I don't think it would be too much different to others'. It is just a disclaimer. Identically, I will take everyting with a pinch of salt, therefore, feel free to give me your answers too!
+我認為就算是同一個問題，每個人或多或少都還是會有一些不同的回答。雖然我不覺得我的答案會與其他人的有很多不同，但我還是先聲明，我的回答只是我的想法。同樣的我也會不會對我得到的任何答案照單全收，所以不用擔心，盡量跟我說你的回答即可。
