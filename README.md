@@ -20,7 +20,7 @@
 
 <br>
 
-* **Extend your answer**
+* [Extend your answer]()
 盡可能的延長你的回答。
 
 <br>
@@ -40,7 +40,7 @@
 
 <br>
 
-* I think I will try my best not to speak over/interject you when it is your time. So **let me know if I should correct you if you have any mistakes. beforehand** Because I know some people think they are fine as long as they are understandable, while some pursue perfection.
+* I think I will try my best not to speak over/interject you when it is your time. So [let me know if I should correct you if you have any mistakes beforehand.]() Because I know some people think they are fine as long as they are understandable, while some pursue perfection.
 在你的時段時，我想我應該會盡量得讓你說，所以請提前跟我說我需不需要訂正你的錯誤。因為我知道有些人是只要能夠被理解的話，就算有錯誤也沒差，但是同時，有些人追求的是完美。
 
 <br>
