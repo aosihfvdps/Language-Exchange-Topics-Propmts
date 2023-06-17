@@ -54,3 +54,5 @@
 就算是同一個問題，每個人或多或少都還是會有一些不同的回答。雖然我不覺得我的答案會與其他人的有很多不同，但我還是先聲明，我的回答只是我的想法。同樣的我也會不會對我得到的任何答案照單全收，所以不用擔心，盡量跟我說你的回答即可。
 
 
+---
+This document is written in English first, and then put on the Chinese translation
