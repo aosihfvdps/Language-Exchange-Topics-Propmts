@@ -53,6 +53,10 @@
 * I believe everyone has their own answer for a same question. My answers only stands for myself, though I don't think it would be too much different to others'. It is just a disclaimer. Identically, I will take everyting with a pinch of salt, therefore, feel free to give me your answers too!
 就算是同一個問題，每個人或多或少都還是會有一些不同的回答。雖然我不覺得我的答案會與其他人的有很多不同，但我還是先聲明，我的回答只是我的想法。同樣的我也會不會對我得到的任何答案照單全收，所以不用擔心，盡量跟我說你的回答即可。
 
+<br>
+
+* I may not ask the questions verbatim and in the order, I will see the current situation to find the best options. But I think the overall meaning of the questions will remain the same. Of course, there may be some questions that I come up with at that time, so they are not in the files.
+我可能不會一個一個字的唸每一個問題，也不一定會按照順序來發問。我會根據當時的情況來判斷。當然也有可能會有一些是臨時想出來，不在檔案裡的。
 
 ---
 This document is written in English first, and then put on the Chinese translation
