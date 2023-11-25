@@ -25,7 +25,7 @@
 
 9. See if there are water expensers.
 
-10. See if there are 子母車
+10. See if there are 子母車 (dumpster).
 
 ![image](https://img.ltn.com.tw/Upload/news/600/2015/03/16/phpCQhe7K.jpg)
 
@@ -44,7 +44,7 @@
 
 5. Ask for a receipt.
 
-6. Ask how often do you need to pay the rent
+6. Ask how often do you need to pay the rent.
 
 7. There is also tenancy deposit that you need to pay. The legal amount of it in Taiwan is 2 months of the rent. If you damaged anything of the apartment, they would take money directly from the deposit.
 
@@ -59,15 +59,18 @@
 
 1. 我想再次確認一下，請問價錢怎麼算? (and you will get the answer, see if it is the same as you think)
 
-1. 請問房租有包含水費、電費嗎?
+1. 請問房租有包含水費、電費嗎? 如果不包含的話，請問會怎麼算?
 
 1. 請問有提供Wifi和第四台嗎?
 
 1. 請問有提供停車位嗎?
 
 1. 插座在哪裡? 還有嗎?
+插座 socket
+還有嗎? any more?
 
 1. 有冷氣嗎?
+冷氣 air conditioner
 
 1. 可以養寵物嗎?
 
@@ -77,10 +80,10 @@
 
 1. 請問訂金多少?
 
+1. 請問押金多少?
+
 1. 什麼時候可以入住?
 
 1. 有收據嗎?
 
 1. 每個月都要繳費嗎? 還是一季繳一次?
-
-1. 請問押金多少?
