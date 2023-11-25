@@ -32,7 +32,7 @@
 
 ## After you have deicded
 
-0. Ask if you can report that you are renting an apartment to reduce your tax.
+1. Ask if you can report that you are renting an apartment to reduce your tax.
 
 1. You are likely need to pay a deposit. A deposit is usually 1 ~ 3 months of the rent. You can get it back when you move in.
 
