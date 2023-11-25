@@ -32,6 +32,8 @@
 
 ## After you have deicded
 
+0. Ask if you can report that you are renting an apartment to reduce your tax.
+
 1. You are likely need to pay a deposit. A deposit is usually 1 ~ 3 months of the rent. You can get it back when you move in.
 
 2. You can negotiate with the landlord when you will move in. 
@@ -46,6 +48,8 @@
 
 7. There is also tenancy deposit that you need to pay. The legal amount of it in Taiwan is 2 months of the rent. If you damaged anything of the apartment, they would take money directly from the deposit.
 
+8. Check the current electricity meter and water meter, take a photo.
+
 ---
  See this [post](https://www.dcard.tw/f/house/p/228674115?cid=2AD1672C-0E02-449A-955D-DA5412171AA7) to find more details
 
@@ -53,33 +57,30 @@
 
 ## Question you might want to ask, include the above points
 
-1.
+1. 我想再次確認一下，請問價錢怎麼算? (and you will get the answer, see if it is the same as you think)
 
-1.
+1. 請問房租有包含水費、電費嗎?
 
-1.
+1. 請問有提供Wifi和第四台嗎?
 
-1.
+1. 請問有提供停車位嗎?
 
-1.
+1. 插座在哪裡?
 
-1.
+1. 有冷氣嗎?
 
-1.
+1. 可以養寵物嗎?
 
-1.
+1. 有飲水機嗎?
 
-1.
+1. 有子母車嗎? 還是要自己去追垃圾車?
 
-1.
+1. 請問訂金多少?
 
-1.
+1. 什麼時候可以入住?
 
-1.
+1. 有收據嗎?
 
-1.
+1. 每個月都要繳費嗎? 還是一季繳一次?
 
-1.
-
-1.
-
+1. 請問押金多少?
